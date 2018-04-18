@@ -241,7 +241,7 @@ struct SharemindModuleApi0x1SyscallContext_ {
     /** Internal pointer, do not use in modules! We're warning you! */
     SHAREMIND_ICONST void * SHAREMIND_ICONST vm_internal;
 
-    /** Process specific data. */
+    /** Internal pointer, do not use in modules! We're warning you! */
     void * SHAREMIND_ICONST process_internal;
 
     /**
