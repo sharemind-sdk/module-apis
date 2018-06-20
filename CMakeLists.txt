@@ -56,7 +56,7 @@ SharemindAddComponentPackage("dev"
     DESCRIPTION "Sharemind Module API development headers"
     DEB_SECTION "libdevel"
     DEB_DEPENDS
-        "libsharemind-cheaders-dev (>= 0.1.0)"
+        "libsharemind-cheaders-dev (>= 1.1.0)"
         "libc6-dev (>= 2.19)"
         "libgcc-4.8-dev"
         "| libgcc-4.9-dev"
