@@ -56,10 +56,5 @@ SharemindAddComponentPackage("dev"
     DEB_DEPENDS
         "libsharemind-cheaders-dev (>= 1.1.0)"
         "libc6-dev (>= 2.19)"
-        "libgcc-4.8-dev"
-        "| libgcc-4.9-dev"
-        "| libgcc-5-dev"
-        "| libgcc-6-dev"
-        "| libgcc-7-dev"
 )
 SharemindPackagingFinalize()
